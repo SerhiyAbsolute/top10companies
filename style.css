@@ -1,0 +1,39 @@
+body{
+    background-color:indigo;
+}
+h1 {
+    text-align: center;
+    font-size: 34px;
+    color: ivory;
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+    color: khaki;
+}
+h3{
+    color: ivory;
+    text-align: center;
+}
+p{
+    color: lavender;
+    font-size: 24px;
+}
+td {
+    border:2px solid lightgreen;
+}
+table {
+    color: ivory;
+    font-size: 24px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid lightgreen;
+}
+img {
+    padding: 10px;
+    width: 100px;
+}
+a{
+    color: greenyellow;
+    text-decoration: none;
+}
